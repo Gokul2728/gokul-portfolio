@@ -39,7 +39,7 @@ The portfolio website is built using the following tools and technologies:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/Abhiz2411/3D-interactive-portfolio.git
+   git clone https://github.com/Gokul2728/gokul-portfolio.git
    ```
 
 2. Navigate to the project directory:
@@ -73,7 +73,7 @@ The portfolio website is built using the following tools and technologies:
 
 ## 🚀 Deployment
 
-This project is deployed using **Vercel** for its blazing-fast performance and ease of use. You can view the live site [here](https://www.abhijitzende.com/).
+This project is deployed using **Vercel** for its blazing-fast performance and ease of use. You can view the live site [here](https://gokul-portfolio-rust.vercel.app/).
 
 ### Setting up Resend API on Vercel
 
